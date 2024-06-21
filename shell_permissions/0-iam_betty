@@ -1,4 +1,5 @@
 #!/bin/bash
+vim 0-iam_betty
 su betty
 chmod +x 0-iam_betty
 tail -1 0-iam_betty | wc -c
